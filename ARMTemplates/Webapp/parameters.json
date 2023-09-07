@@ -6,7 +6,7 @@
             "value": "590f9815-4379-4568-a5e9-9dbe425b826f"
         },
         "name": {
-            "value": "MyBasicWebApp"
+            "value": "MyBasicWebApp-Dev"
         },
         "location": {
             "value": "Southeast Asia"
@@ -15,13 +15,28 @@
             "value": "hannahcmtaino"
         },
         "serverFarmResourceGroup": {
-            "value": "hannah.c.m.taino-rg"
+            "value": "hannah.c.m.taino-RG"
         },
         "alwaysOn": {
             "value": false
         },
         "ftpsState": {
             "value": "FtpsOnly"
+        },
+        "sku": {
+            "value": "Free"
+        },
+        "skuCode": {
+            "value": "F1"
+        },
+        "numberOfWorkers": {
+            "value": "1"
+        },
+        "workerSize": {
+            "value": "0"
+        },
+        "workerSizeId": {
+            "value": "0"
         },
         "currentStack": {
             "value": "dotnet"
