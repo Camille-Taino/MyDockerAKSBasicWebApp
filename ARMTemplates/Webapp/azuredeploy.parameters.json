@@ -12,10 +12,10 @@
             "value": "Southeast Asia"
         },
         "hostingPlanName": {
-            "value": "arm-baseName"
+            "value": "hannahcmtaino"
         },
         "serverFarmResourceGroup": {
-            "value": "AzureDevOpsJSB-RG"
+            "value": "hannah.c.m.taino-RG"
         },
         "alwaysOn": {
             "value": false
