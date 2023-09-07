@@ -1,5 +1,42 @@
 {
-    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
-    "parameters": {}
-  }
+    "parameters": {
+        "subscriptionId": {
+            "value": "590f9815-4379-4568-a5e9-9dbe425b826f"
+        },
+        "name": {
+            "value": "MyBasicWebApp"
+        },
+        "location": {
+            "value": "Southeast Asia"
+        },
+        "hostingPlanName": {
+            "value": "arm-baseName"
+        },
+        "serverFarmResourceGroup": {
+            "value": "AzureDevOpsJSB-RG"
+        },
+        "alwaysOn": {
+            "value": false
+        },
+        "ftpsState": {
+            "value": "FtpsOnly"
+        },
+        "currentStack": {
+            "value": "dotnet"
+        },
+        "phpVersion": {
+            "value": "OFF"
+        },
+        "netFrameworkVersion": {
+            "value": "v6.0"
+        },
+        "repoUrl": {
+            "value": "https://github.com/Camille-Taino/MyBasicWebApp"
+        },
+        "branch": {
+            "value": "main"
+        }
+    }
+}
