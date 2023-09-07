@@ -6,7 +6,7 @@
             "value": "590f9815-4379-4568-a5e9-9dbe425b826f"
         },
         "name": {
-            "value": "MyBasicWebApp-Dev"
+            "value": "MyBasicWebApp"
         },
         "location": {
             "value": "Southeast Asia"
@@ -15,7 +15,7 @@
             "value": "hannahcmtaino"
         },
         "serverFarmResourceGroup": {
-            "value": "hannah.c.m.taino-RG"
+            "value": "hannah.c.m.taino-rg"
         },
         "alwaysOn": {
             "value": false
