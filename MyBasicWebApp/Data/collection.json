@@ -1,0 +1,47 @@
+[
+  {
+    "Description": "Angel Beats",
+    "ImageUrl": "/Images/AngelBeats.jpg",
+    "Date": "Angel Beats! is set in the environment of a high school in the afterlife, a type of limbo for people who have experienced trauma or hardships in life and must overcome them before passing on and being reincarnated. The story follows Yuzuru Otonashi, a boy with amnesia who ends up in the afterlife."
+  },
+  {
+    "Description": "Anohana",
+    "ImageUrl": "/Images/Anohana.jpg",
+    "Date": "Plot. In Chichibu, Saitama, a group of six sixth-grade-age childhood friends drift apart after one of them, Meiko 'Menma Honma, dies in an accident. Five years after the incident, the leader of the group, Jinta Yadomi, has withdrawn from society, does not attend high school, and lives as a recluse."
+  },
+  {
+    "Description": "Attack on Titan",
+    "ImageUrl": "/Images/AOT.jpg",
+    "Date": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction. Humans are nearly exterminated by giant creatures called Titans."
+  },
+  {
+    "Description": "Demon Slayer",
+    "ImageUrl": "/Images/DS.jpg",
+    "Date": "Demon Slayer: Kimetsu no Yaiba is a Japanese fantasy manga series and comic book by Koyoharu Gotouge. It follows Tanjiro Kamado, a young boy living in Taisho-era Japan who becomes the sole survivor of his family after demons kill them. He then sets out to save his sister Nezuko who has transformed into a demon."
+  },
+  {
+    "Description": "Jujutsu Kaisen",
+    "ImageUrl": "/Images/JJK.jpg",
+    "Date": "Jujutsu Kaisen follows the story of Yuji Itadori, an ordinary boy who crosses paths with Megumi Fushiguro, a Jujutsu Sorcerer searching for a powerful Cursed Object known as Ryomen Sukuna's finger. Unintentionally, Yuji's friends unseal the Cursed Object, attracting dangerous Curses to their location."
+  },
+  {
+    "Description": "One Piece",
+    "ImageUrl": "/Images/OnePiece.jpg",
+    "Date": "ONE PIECE is a legendary high-seas quest unlike any other. Luffy is a young adventurer who has longed for a life of freedom ever since he can remember. He sets off from his small village on a perilous journey to find the legendary fabled treasure, ONE PIECE, to become King of the Pirates!"
+  },
+  {
+    "Description": "Your Lie in April",
+    "ImageUrl": "/Images/YLIA.jpg",
+    "Date": "A piano prodigy who lost his ability to play after suffering a traumatic event in his childhood is forced back into the spotlight by an eccentric girl with a secret of her own. The story follows Arima Kousei, a skilled pianist."
+  },
+  {
+    "Description": "Kiminonawa - Your Name",
+    "ImageUrl": "/Images/YourName.jpg",
+    "Date": "Original title: Kimi no na wa. Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person. Two teenagers share a profound, magical connection upon discovering they are swapping bodies."
+  },
+  {
+    "Description": "Hotarubi no Mori e",
+    "ImageUrl": "../Images/Hotarubi.jpg",
+    "Date": "Hotaru is rescued by a spirit when she gets lost in a forest as a child. The two become friends, despite the spirit revealing that he will disappear if he is ever touched by a human."
+  }
+]

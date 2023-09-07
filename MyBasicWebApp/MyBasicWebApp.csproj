@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\AngelBeats.jpg" />
+    <None Include="wwwroot\Images\Anohana.jpg" />
+    <None Include="wwwroot\Images\AOT.jpg" />
+    <None Include="wwwroot\Images\DS.jpg" />
+    <None Include="wwwroot\Images\Hotarubi.jpg" />
+    <None Include="wwwroot\Images\JJK.jpg" />
+    <None Include="wwwroot\Images\OnePiece.jpg" />
+    <None Include="wwwroot\Images\YLIA.jpg" />
+    <None Include="wwwroot\Images\YourName.jpg" />
+  </ItemGroup>
+
+</Project>
