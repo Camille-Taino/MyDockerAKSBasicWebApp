@@ -6,7 +6,7 @@
             "value": "590f9815-4379-4568-a5e9-9dbe425b826f"
         },
         "name": {
-            "value": "MyBasicWebApp-Dev"
+            "value": "MyBasicWebApp"
         },
         "location": {
             "value": "Southeast Asia"
@@ -15,28 +15,13 @@
             "value": "hannahcmtaino"
         },
         "serverFarmResourceGroup": {
-            "value": "hannah.c.m.taino-RG"
+            "value": "hannah.c.m.taino-rg"
         },
         "alwaysOn": {
             "value": false
         },
         "ftpsState": {
             "value": "FtpsOnly"
-        },
-        "sku": {
-            "value": "Free"
-        },
-        "skuCode": {
-            "value": "F1"
-        },
-        "numberOfWorkers": {
-            "value": "1"
-        },
-        "workerSize": {
-            "value": "0"
-        },
-        "workerSizeId": {
-            "value": "0"
         },
         "currentStack": {
             "value": "dotnet"
@@ -46,12 +31,6 @@
         },
         "netFrameworkVersion": {
             "value": "v6.0"
-        },
-        "repoUrl": {
-            "value": "https://github.com/Camille-Taino/MyBasicWebApp"
-        },
-        "branch": {
-            "value": "main"
         }
     }
 }
