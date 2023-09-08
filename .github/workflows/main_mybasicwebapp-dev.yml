@@ -53,5 +53,21 @@ jobs:
         with:
           app-name: 'MyBasicWebApp-Dev'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3E8EF433DAD54C28A30A04AF9C33FFA2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BF8FB5A5A054954B8D0FB01135FB2C0 }}
           package: .
+
+on: [push]
+name: ARMActionSample
+
+jobs:
+  build-and-deploy:
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: whiteducksoftware/azure-arm-action@master
+      with:
+        creds: ${{ secrets.AZURE_CREDENTIALS_HMe8Q~5XKAl.rQ7uEZMiJiCiZeljJ7vuzoStaamG }}
+        resourceGroupName: hannah.c.m.taino-RG
+        templateLocation: https://github.com/Camille-Taino/MyBasicWebApp/blob/main/ARMTemplates/Webapp/template.json
+        parameters: https://github.com/Camille-Taino/MyBasicWebApp/blob/main/ARMTemplates/Webapp/template.json
+        deploymentName: MyBasicWebApp-Dev
