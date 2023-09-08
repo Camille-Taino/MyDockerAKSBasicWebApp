@@ -63,11 +63,11 @@ jobs:
   build-and-deploy:
     runs-on: windows-latest
     steps:
-    - uses: actions/checkout@master
-    - uses: whiteducksoftware/azure-arm-action@master
+    - uses: actions/checkout@main
+    - uses: whiteducksoftware/azure-arm-action@main
       with:
         creds: ${{ secrets.AZURE_CREDENTIALS_HMe8Q~5XKAl.rQ7uEZMiJiCiZeljJ7vuzoStaamG }}
         resourceGroupName: hannah.c.m.taino-RG
-        templateLocation: https://github.com/Camille-Taino/MyBasicWebApp/blob/main/ARMTemplates/Webapp/template.json
-        parameters: https://github.com/Camille-Taino/MyBasicWebApp/blob/main/ARMTemplates/Webapp/template.json
+        templateLocation: https://raw.githubusercontent.com/Camille-Taino/MyBasicWebApp/main/ARMTemplates/Webapp/template.json
+        parameters: https://raw.githubusercontent.com/Camille-Taino/MyBasicWebApp/main/ARMTemplates/Webapp/parameters.json
         deploymentName: MyBasicWebApp-Dev
