@@ -4,5 +4,7 @@ services:
   mybasicwebapp:
     image: mybasicwebapp
     build:
-      context: ./mybasicwebapp
+      context: .
       dockerfile: Dockerfile
+    ports:
+      - "5000:80"
