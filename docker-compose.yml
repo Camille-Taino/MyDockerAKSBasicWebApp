@@ -1,0 +1,8 @@
+version: '24'
+
+services:
+  MyDockerAKSBasicWebApp:
+    image: MyDockerAKSBasicWebApp
+    build:
+      context: ./MyDockerAKSBasicWebApp
+      dockerfile: Dockerfile
