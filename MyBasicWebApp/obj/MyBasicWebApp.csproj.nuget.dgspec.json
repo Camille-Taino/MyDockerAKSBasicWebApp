@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\MyBasicWebApp.csproj": {}
+    "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\MyBasicWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\MyBasicWebApp.csproj": {
+    "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\MyBasicWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\MyBasicWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\MyBasicWebApp.csproj",
         "projectName": "MyBasicWebApp",
-        "projectPath": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\MyBasicWebApp.csproj",
+        "projectPath": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\MyBasicWebApp.csproj",
         "packagesPath": "C:\\Users\\hannah.c.m.taino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\obj\\",
+        "outputPath": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hannah.c.m.taino\\AppData\\Roaming\\NuGet\\NuGet.Config",

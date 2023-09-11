@@ -1,283 +1,283 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyBasicWebApp.bundle.scp.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyBasicWebApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\MyBasicWebApp.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\AOT.jpg",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\AOT.jpg",
       "PackagePath": "staticwebassets\\Images\\AOT.jpg"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\AngelBeats.jpg",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\AngelBeats.jpg",
       "PackagePath": "staticwebassets\\Images\\AngelBeats.jpg"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\Anohana.jpg",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\Anohana.jpg",
       "PackagePath": "staticwebassets\\Images\\Anohana.jpg"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\DS.jpg",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\DS.jpg",
       "PackagePath": "staticwebassets\\Images\\DS.jpg"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\Hotarubi.jpg",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\Hotarubi.jpg",
       "PackagePath": "staticwebassets\\Images\\Hotarubi.jpg"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\JJK.jpg",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\JJK.jpg",
       "PackagePath": "staticwebassets\\Images\\JJK.jpg"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\OnePiece.jpg",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\OnePiece.jpg",
       "PackagePath": "staticwebassets\\Images\\OnePiece.jpg"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\YLIA.jpg",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\YLIA.jpg",
       "PackagePath": "staticwebassets\\Images\\YLIA.jpg"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\YourName.jpg",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\Images\\YourName.jpg",
       "PackagePath": "staticwebassets\\Images\\YourName.jpg"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\hannah.c.m.taino\\source\\repos\\MyDockerAKSBasicWebApp\\MyDockerAKSBasicWebApp\\MyBasicWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
