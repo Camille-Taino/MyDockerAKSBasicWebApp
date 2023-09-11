@@ -4,5 +4,5 @@ services:
   MyDockerAKSBasicWebApp:
     image: MyDockerAKSBasicWebApp
     build:
-      context: MyDockerAKSBasicWebApp
+      context: ./MyBasicWebApp
       dockerfile: Dockerfile
