@@ -13,24 +13,27 @@ steps:
 - task: DockerCompose@0
   displayName: 'Build services'
   inputs:
-    azureSubscription: 'Azure Resource Manager'
-    azureContainerRegistry: '{"loginServer":"mydockerakscontainer.azurecr.io", "id" : "/subscriptions/590f9815-4379-4568-a5e9-9dbe425b826f/resourceGroups/hannah.c.m.taino-RG/providers/Microsoft.ContainerRegistry/registries/mydockerakscontainer"}'
+    azureSubscription: 'Kubernetes Cluster Connection'
+    azureContainerRegistry: '{"loginServer":"mydockerakscontainer13580.azurecr.io", "id" : "/subscriptions/590f9815-4379-4568-a5e9-9dbe425b826f/resourceGroups/hannah.c.m.taino-RG/providers/Microsoft.ContainerRegistry/registries/mydockerakscontainer13580"}'
+    dockerComposeFile: 'MyBasicWebApp/docker-compose.yml'
     action: 'Build services'
     additionalImageTags: '$(Build.BuildId)'
 
 - task: DockerCompose@0
   displayName: 'Push services'
   inputs:
-    azureSubscription: 'Azure Resource Manager'
-    azureContainerRegistry: '{"loginServer":"mydockerakscontainer.azurecr.io", "id" : "/subscriptions/590f9815-4379-4568-a5e9-9dbe425b826f/resourceGroups/hannah.c.m.taino-RG/providers/Microsoft.ContainerRegistry/registries/mydockerakscontainer"}'
+    azureSubscription: 'Kubernetes Cluster Connection'
+    azureContainerRegistry: '{"loginServer":"mydockerakscontainer13580.azurecr.io", "id" : "/subscriptions/590f9815-4379-4568-a5e9-9dbe425b826f/resourceGroups/hannah.c.m.taino-RG/providers/Microsoft.ContainerRegistry/registries/mydockerakscontainer13580"}'
+    dockerComposeFile: 'MyBasicWebApp/docker-compose.yml'
     action: 'Push services'
     additionalImageTags: '$(Build.BuildId)'
 
 - task: DockerCompose@0
   displayName: 'Lock services'
   inputs:
-    azureSubscription: 'Azure Resource Manager'
-    azureContainerRegistry: '{"loginServer":"mydockerakscontainer.azurecr.io", "id" : "/subscriptions/590f9815-4379-4568-a5e9-9dbe425b826f/resourceGroups/hannah.c.m.taino-RG/providers/Microsoft.ContainerRegistry/registries/mydockerakscontainer"}'
+    azureSubscription: 'Kubernetes Cluster Connection'
+    azureContainerRegistry: '{"loginServer":"mydockerakscontainer13580.azurecr.io", "id" : "/subscriptions/590f9815-4379-4568-a5e9-9dbe425b826f/resourceGroups/hannah.c.m.taino-RG/providers/Microsoft.ContainerRegistry/registries/mydockerakscontainer13580"}'
+    dockerComposeFile: 'MyBasicWebApp/docker-compose.yml'
     action: 'Lock services'
 
 - task: CopyFiles@2
@@ -43,3 +46,50 @@ steps:
   displayName: 'Publish Artifact'
   inputs:
     ArtifactName: deploy
+
+stages:
+- stage: 'Deploy'
+  displayName: 'Deploy the containers'
+  dependsOn: Build
+  jobs:
+  - deployment: Deploy
+    displayName: Deploy
+    pool:
+      vmImage: 'ubuntu-latest'
+    environment: 'Dev'
+    variables:
+    - group: Release
+    strategy:
+      runOnce:
+        deploy:
+          steps:
+          - download: current
+            artifact: deploy
+
+- task: KubernetesManifest@1
+  displayName: Create imagePullSecret
+  inputs:
+    action: createSecret
+    connectionType: azureResourceManager
+    secretName: $(imagePullSecret)
+    dockerRegistryEndpoint: 'Container Registry Connection'
+    azureSubscriptionConnection: 'Kubernetes Cluster Connection'
+    azureResourceGroup: 'hannah.c.m.taino-RG'
+    kubernetesCluster: 'MyDockerAKSBasicWebApp-13580'
+    namespace: 'default'
+
+- task: KubernetesManifest@1
+  displayName: Deploy to Kubernetes cluster
+  inputs:
+    action: deploy
+    connectionType: azureResourceManager
+    azureSubscriptionConnection: 'Kubernetes Cluster Connection'
+    azureResourceGroup: 'hannah.c.m.taino-RG'
+    kubernetesCluster: 'MyDockerAKSBasicWebApp-13580'
+    namespace: 'default'
+    deploy: |
+      $(Pipeline.Workspace)/manifests/deployment.yml
+    imagePullSecrets: |
+      $(imagePullSecret)
+    containers: |
+      $(RegistryName)/$(webRepository):$(Build.BuildId)

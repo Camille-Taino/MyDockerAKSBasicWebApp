@@ -1,19 +1,35 @@
-apiVersion : apps/v1
+apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: web
+  name: mybasicwebapp-deployment
+  labels:
+    app: mybasicwebapp
 spec:
   replicas: 1
-  selector:
-    matchLabels:
-      app: web
   template:
     metadata:
+      name: mybasicwebapp
       labels:
-        app: web
+        app: mybasicwebapp
     spec:
       containers:
-        - name: web
-          image: mydockerakscontainer13580.azurecr.io/web
-          ports:
-          - containerPort: 80
+      - name: mydockerakscontainer13580
+        image: mybasicwebapp
+        imagePullPolicy: IfNotPresent
+      restartPolicy: Always
+  selector:
+    matchLabels:
+      app: mybasicwebapp
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: mybasicwebapp-service
+spec:
+  selector:
+    app: mybasicwebapp
+  ports:
+    - port: 80
+  type: LoadBalancer
