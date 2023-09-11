@@ -1,14 +1,14 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: mydockerakscontainer-deployment
+  name: mybasicwebapp-deployment
   labels:
     app: mybasicwebapp
 spec:
   replicas: 1
   template:
     metadata:
-      name: mydockerakscontainer
+      name: mybasicwebapp
       labels:
         app: mybasicwebapp
     spec:
@@ -26,7 +26,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: mydockerakscontainer-service
+  name: mybasicwebapp-service
 spec:
   selector:
     app: mybasicwebapp
