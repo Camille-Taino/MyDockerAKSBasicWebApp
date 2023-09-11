@@ -13,7 +13,7 @@ spec:
         app: mybasicwebapp
     spec:
       containers:
-      - name: mydockerakscontainer13580
+      - name: mybasicwebapp
         image: mybasicwebapp
         imagePullPolicy: IfNotPresent
       restartPolicy: Always
