@@ -15,12 +15,12 @@ COPY ["*MyBasicWebApp.csproj", "./"]
 RUN dotnet restore
 COPY . ./
 WORKDIR /src
-RUN dotnet build -c $configuration -o /app/build
+RUN dotnet build  -c Release -o /app
 
 FROM build AS publish
-RUN dotnet publish -c $configuration -o /app/publish /p:UseAppHost=false
+RUN dotnet publish -c Release -o /app
 
 FROM base AS final
 WORKDIR /app
-COPY --from=publish /app/publish .
+COPY --from=publish /app .
 ENTRYPOINT ["dotnet", "MyBasicWebApp.dll"]
