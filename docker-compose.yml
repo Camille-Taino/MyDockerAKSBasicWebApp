@@ -1,8 +1,8 @@
 version: '2'
 
 services:
-  mydockeraksbasicwebapp:
-    image: MyBasicWebApp
+  mybasicwebapp:
+    image: mybasicwebapp
     build:
-      context: ./MyBasicWebApp
+      context: ./mybasicwebapp
       dockerfile: Dockerfile
