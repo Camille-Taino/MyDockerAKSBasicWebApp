@@ -10,17 +10,15 @@ RUN adduser -u 5678 --disabled-password --gecos "" appuser && chown -R appuser /
 USER appuser
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
-ARG configuration=Release
 WORKDIR /src
-COPY ["MyBasicWebApp/MyBasicWebApp.csproj", "MyBasicWebApp/"]
-RUN dotnet restore "MyBasicWebApp/MyBasicWebApp.csproj"
-COPY . .
-WORKDIR "/src/MyBasicWebApp"
-RUN dotnet build "MyBasicWebApp.csproj" -c $configuration -o /app/build
+COPY ["*MyBasicWebApp.csproj", "./"]
+RUN dotnet restore
+COPY . ./
+WORKDIR /src
+RUN dotnet build -c $configuration -o /app/build
 
 FROM build AS publish
-ARG configuration=Release
-RUN dotnet publish "MyBasicWebApp.csproj" -c $configuration -o /app/publish /p:UseAppHost=false
+RUN dotnet publish -c $configuration -o /app/publish /p:UseAppHost=false
 
 FROM base AS final
 WORKDIR /app
