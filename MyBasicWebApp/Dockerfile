@@ -12,10 +12,10 @@ USER appuser
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 ARG configuration=Release
 WORKDIR /src
-COPY ["MyDockerAKSBasicWebApp/MyBasicWebApp/MyBasicWebApp.csproj", "MyDockerAKSBasicWebApp/MyBasicWebApp/"]
-RUN dotnet restore "MyDockerAKSBasicWebApp/MyBasicWebApp/MyBasicWebApp.csproj"
+COPY ["MyBasicWebApp/MyBasicWebApp.csproj", "MyBasicWebApp/"]
+RUN dotnet restore "MyBasicWebApp/MyBasicWebApp.csproj"
 COPY . .
-WORKDIR "/src/MyDockerAKSBasicWebApp/MyBasicWebApp"
+WORKDIR "/src/MyBasicWebApp"
 RUN dotnet build "MyBasicWebApp.csproj" -c $configuration -o /app/build
 
 FROM build AS publish
