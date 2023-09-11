@@ -4,9 +4,9 @@ version: '3.4'
 
 services:
   mybasicwebapp:
-    image: mydockeraksbasicwebapp
+    image: mybasicwebapp
     build:
       context: .
-      dockerfile: MyBasicWebApp/Dockerfile
+      dockerfile: Dockerfile
     ports:
       - 5180:5180
