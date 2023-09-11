@@ -12,8 +12,8 @@ USER appuser
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 ARG configuration=Release
 WORKDIR /src
-COPY ["MyBasicWebApp/MyBasicWebApp.csproj", "MyBasicWebApp/"]
-RUN dotnet restore "MyBasicWebApp/MyBasicWebApp.csproj"
+COPY ["MyBasicWebApp.csproj", "MyBasicWebApp/"]
+RUN dotnet restore "MyBasicWebApp.csproj"
 COPY . .
 WORKDIR "/src/MyBasicWebApp"
 RUN dotnet build "MyBasicWebApp.csproj" -c $configuration -o /app/build
